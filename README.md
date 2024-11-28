@@ -32,8 +32,6 @@ Set the values of environment variables in the `.env.development`, `.env.product
 
 Copy your contract **ABI** from the [Remix](https://remix.ethereum.org/) and paste it into `contract/abi.json`.
 
-See the [Remix documentation](https://remix-ide.readthedocs.io/en/latest/run.html) for how to generate an ABI.
-
 6. Run the server:
 
 ```sh
