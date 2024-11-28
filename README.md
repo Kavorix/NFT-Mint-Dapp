@@ -1,23 +1,21 @@
-# [Next.js](https://nextjs.org/) NFT Mint dApp
+# NFT Mint dApp
 
 A simple, fast and modern dApp for minting NFTs.
 
 Just set up some configurations and add your own **ABI**.
-
-The actual dApp is here: [Skulls In Love](https://www.skullsin.love/)
 
 ## Usage
 
 1. Clone this project:
 
 ```sh
-git clone https://github.com/kjmczk/nextjs-nft-mint-dapp.git
+git clone https://github.com/Kavorix/NFT-Mint-Dapp
 ```
 
 2. Change into the directory:
 
 ```sh
-cd nextjs-nft-mint-dapp
+cd NFT-Mint-Dapp
 ```
 
 3. Install the dependencies:

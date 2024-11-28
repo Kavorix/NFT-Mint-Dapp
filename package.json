@@ -1,5 +1,5 @@
 {
-  "name": "nextjs-nft-mint-dapp",
+  "name": "NFT-mint-dapp",
   "private": true,
   "scripts": {
     "dev": "next dev",
