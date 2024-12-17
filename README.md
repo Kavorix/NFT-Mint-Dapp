@@ -1,21 +1,19 @@
-# NFT Mint dApp
+# Rage Trade
 
-A simple, fast and modern dApp for minting NFTs.
-
-Just set up some configurations and add your own **ABI**.
+Rage is a liquidity and treasury management protocol.
 
 ## Usage
 
 1. Clone this project:
 
 ```sh
-git clone https://github.com/Kavorix/NFT-Mint-Dapp
+git clone https://github.com/Kavorix/rage-trade
 ```
 
 2. Change into the directory:
 
 ```sh
-cd NFT-Mint-Dapp
+cd rage-trade
 ```
 
 3. Install the dependencies:
